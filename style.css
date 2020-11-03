@@ -1,0 +1,33 @@
+.h1Formate{
+    text-align: center;
+    background-color: aquamarine;
+    color: brown;
+    font-style: italic;
+    text-decoration-color: chocolate;
+
+}
+h2{
+    text-align: center;
+}
+img{
+    height: 600px;
+    width: 600px;
+}
+a{
+   color: crimson;
+    
+}
+a:hover{
+    color: darkblue;
+    
+}
+.danny{
+    text-align: center;
+    color: darkmagenta;
+}
+
+.center{
+    display: block ;
+    margin-left: auto;
+    margin-right: auto;
+}
